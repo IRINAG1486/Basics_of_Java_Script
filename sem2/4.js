@@ -23,5 +23,5 @@
 Подсказка: Возможно, вам понадобится округление чисел и оператор %.
 */
 
-const userNumber = +prompt('Введите целое число');
-console.log(`В числе ${userNumber} количество сотен: ${Math.trunc((userNumber / 100) % 10)}, десятков: ${Math.trunc((userNumber / 10) % 10)}, единиц: ${userNumber % 10}`);
+// const userNumber = +prompt('Введите целое число');
+// console.log(`В числе ${userNumber} количество сотен: ${Math.trunc((userNumber / 100) % 10)}, десятков: ${Math.trunc((userNumber / 10) % 10)}, единиц: ${userNumber % 10}`);

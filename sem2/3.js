@@ -17,10 +17,10 @@
 // const dayNumber = +prompt('Введите целое число от 1 до 31 включительно: ');
 // if (dayNumber < 1 || dayNumber > 31 || Number.isNaN(dayNumber)) {
 //     console.log('Неверное значение');
-// } else if(dayNumber < 11){
+// } else if(dayNumber < 11) {
 //     console.log(`Число ${dayNumber} попадает в 1 декаду месяца.`);
-// }else if(dayNumber > 10 && dayNumber < 21){
+// } else if(dayNumber > 10 && dayNumber < 21) {
 //     console.log(`Число ${dayNumber} попадает во 2 декаду месяца.`);
-// }else{
+// } else{
 //     console.log(`Число ${dayNumber} попадает в 3 декаду месяца.`);
 // }

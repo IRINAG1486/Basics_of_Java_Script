@@ -10,7 +10,7 @@
 
 // const positive = +prompt('Введите положительное число');
 // const negative = +prompt('Введите отрицательное число');
-// if (positive > 0 && negative < 0){
+// if (positive > 0 && negative < 0) {
 //     console.log('Все значения верные.');
 // } else {
 //     console.log('Одно или более значений некорректно.');
